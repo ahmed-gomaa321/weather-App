@@ -4,7 +4,7 @@ const submit = document.querySelector("#submit");
 const weatherDis = document.querySelector(".row");
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-const base = `http://api.weatherapi.com/v1`;
+const base = `https://api.weatherapi.com/v1`;
 const apiKey = 'd0ad977c2b5245b186e223932242506';
 
 // geolocation
