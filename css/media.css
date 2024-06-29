@@ -1,8 +1,19 @@
 /* xs */
-@media (max-width: 575px) {}
-
+@media (max-width: 575px) {
+    #subscribe{
+        padding: 9px 10px !important;
+    }
+    #email::placeholder{
+        padding-left: 0 !important;
+        margin: 0;
+        font-size: .629rem;
+        line-height: 1.2;
+    }
+}
 /* sm */
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+    
+}
 
 /* Md */
 @media (min-width: 768px) {}

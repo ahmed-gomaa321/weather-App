@@ -49,10 +49,10 @@ body{
     min-height: 360px;
 }
 
-#search::placeholder,
+/* #search::placeholder,
 #email::placeholder {
     padding-left: .9375rem;
-}
+} */
 
 #submit,
 #subscribe {
